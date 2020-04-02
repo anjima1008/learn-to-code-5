@@ -1,0 +1,16 @@
+//program written by anjima 
+
+#include <stdio.h>
+
+//Compiler version gcc  6.3.0
+
+int main()
+{
+ char charname[]="Blacky";
+ int charage=3;
+ char charfood[]="pedigree";
+printf("My pet is %s\n",charname);
+printf("He is %d years old\n",charage);
+printf("His favourite food is %s\n",charfood);
+  return 0;
+}
